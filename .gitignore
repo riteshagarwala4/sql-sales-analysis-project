@@ -1,0 +1,13 @@
+# SQL Server local files
+*.bak
+*.mdf
+*.ndf
+*.ldf
+
+# Editor settings
+.vs/
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
