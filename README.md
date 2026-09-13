@@ -57,6 +57,12 @@ T-SQL · SQL Server · exploratory data analysis · CTEs · joins · aggregation
 
 This is a learning project completed while following the SQL data analytics material by [Data with Baraa](https://www.datawithbaraa.com/). The repository is an analysis layer built on my own course-based data warehouse project. The course is credited here to make the project provenance transparent.
 
+## About Me
+
+Hi! I'm **Ritesh Agarwala**, an MIS Analyst at Wipro currently upskilling in SQL, data analytics, and data engineering.
+
+- **LinkedIn**: [Profile](https://www.linkedin.com/in/ritesh-agarwala-255182297)
+
 ## License
 
 MIT License. See [LICENSE](LICENSE).
